@@ -4,7 +4,7 @@
 
 ## 프로젝트 지도
 
-| | 프로젝트 | 형태·역할 | 핵심 역량 | 바로 보기 |
+|           | 프로젝트 | 형태·역할 | 핵심 역량 | 바로 보기 |
 |---:|---|---|---|---|
 | 1 | VR 재난 시뮬레이션 | 3인 팀 · 네트워크 담당 | Unity 멀티플레이, 소유권·동기화, 비동기 생성 순서, 협업 | [Repository](https://github.com/Mindarinda47/vr-disaster-networking-portfolio) |
 | 2 | Unity 2D RPG Gameplay Systems | 개인 프로젝트 · 게임플레이 구현 | 퀘스트, 대화, 인벤토리, 전투, 저장, 이벤트 기반 UI | [Repository](https://github.com/Mindarinda47/unity-2d-rpg-gameplay-systems) |
