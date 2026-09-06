@@ -10,9 +10,9 @@
 | 2 | Unity 2D RPG Gameplay Systems | 개인 프로젝트 · 게임플레이 구현 | 퀘스트, 대화, 인벤토리, 전투, 저장, 이벤트 기반 UI | [Repository](https://github.com/Mindarinda47/unity-2d-rpg-gameplay-systems) |
 | 3 | 웹 방탈출 게임 | 1인 프로젝트 · 전체 구현 | 퍼즐 상태 관리, 게임 밸런스, 반복 플레이 검증 | [Repository](https://github.com/Mindarinda47/website-escape-game-portfolio) |
 | 4 | 붐비 혼잡 예보 | 1인 프로젝트 · 전체 구현 | 요구사항 구조화, 혼잡도 규칙, 데이터와 서비스 설계 | [Repository](https://github.com/Mindarinda47/boombi-ai-crowd-forecast) |
-| 기술사례 | C 다중 클라이언트 채팅 | 개인 재구현 | TCP framing, `select`, 연결·방 상태 | [Repository](https://github.com/Mindarinda47/c-network-room-chat) |
-| 기술사례 | xv6 Kernel Extensions | 학부 과제 | 시스템 콜, 우선순위 스케줄링, lazy allocation | [Repository](https://github.com/Mindarinda47/xv6-kernel-extensions) |
-| 기술사례 | STM32 Halli Galli | 4인 팀 · 센서·통합 기여 | 임베디드, 하드웨어 디버깅, 협업 | [Repository](https://github.com/Mindarinda47/stm32-halli-galli-system) |
+| 5 | C 다중 클라이언트 채팅 | 개인 재구현 | TCP framing, `select`, 연결·방 상태 | [Repository](https://github.com/Mindarinda47/c-network-room-chat) |
+| 6 | xv6 Kernel Extensions | 학부 과제 | 시스템 콜, 우선순위 스케줄링, lazy allocation | [Repository](https://github.com/Mindarinda47/xv6-kernel-extensions) |
+| 7 | STM32 Halli Galli | 4인 팀 · 센서·통합 기여 | 임베디드, 하드웨어 디버깅, 협업 | [Repository](https://github.com/Mindarinda47/stm32-halli-galli-system) |
 
 전공 사례의 구현 범위는 [Technical Cases](docs/TECHNICAL_CASES.md)에 비교 정리했습니다.
 
