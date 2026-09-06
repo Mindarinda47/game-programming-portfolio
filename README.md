@@ -2,37 +2,9 @@
 
 게임 네트워크, Unity 게임플레이 시스템, C 시스템 프로그래밍 경험을 빠르게 확인할 수 있도록 구성한 포트폴리오 허브입니다. 각 저장소에서 구현 코드, 담당 범위와 문제 해결 과정을 확인할 수 있습니다.
 
-## 우선 검토 프로젝트
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>1. VR 재난 시뮬레이션</h3>
-<p>PC 관제자와 VR 참가자를 연결하는 3인 팀 프로젝트입니다. 멀티플레이 연결·설정, 플레이어 생성과 소유권 이전, 위치 동기화, 관제 상호작용과 음성 기능 연동을 담당했습니다.</p>
-<p><strong>Unity · C# · Netcode for GameObjects · XR · Vivox</strong></p>
-<p><a href="https://github.com/Mindarinda47/vr-disaster-networking-portfolio"><strong>저장소 바로 보기 →</strong></a></p>
-<p><a href="https://www.youtube.com/watch?v=iOX_i1il5Sw">시연 영상</a> · <a href="https://github.com/Mindarinda47/vr-disaster-networking-portfolio/blob/main/docs/contribution.md">담당 범위</a> · <a href="https://github.com/Mindarinda47/vr-disaster-networking-portfolio/tree/main/src/networking">대표 코드</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>2. Unity 2D RPG Gameplay Systems</h3>
-<p>탐색, 전투, NPC 대화, 퀘스트, 인벤토리와 저장 기능을 하나의 플레이 흐름으로 연결한 개인 프로젝트입니다. 상태 전이와 시스템 간 데이터·UI 동기화에 중점을 두었습니다.</p>
-<p><strong>Unity 6 · C# · ScriptableObject · JSON · 2D Physics</strong></p>
-<p><a href="https://github.com/Mindarinda47/unity-2d-rpg-gameplay-systems"><strong>저장소 바로 보기 →</strong></a></p>
-<p><a href="https://github.com/Mindarinda47/unity-2d-rpg-gameplay-systems/blob/main/Docs/ARCHITECTURE.md">설계</a> · <a href="https://github.com/Mindarinda47/unity-2d-rpg-gameplay-systems/blob/main/Docs/PROBLEM_SOLVING.md">문제 해결</a> · <a href="https://github.com/Mindarinda47/unity-2d-rpg-gameplay-systems/tree/main/Assets/Scripts">대표 코드</a></p>
-</td>
-</tr>
-</table>
-
-## 5분 검토 경로
-
-1. **VR 재난 시뮬레이션**의 시연 영상으로 프로젝트 전체 흐름을 확인합니다.
-2. VR 저장소의 `NetworkConnect`, `NetworkPlayer`, `minimapClickHandler`에서 담당 네트워크 구현을 확인합니다.
-3. **Unity 2D RPG**의 `QuestManager`, `PlayerInventory`, `SaveManager`에서 게임플레이 시스템 연결을 확인합니다.
-4. 관심 분야에 따라 웹 게임 또는 [전공 기술 사례](docs/TECHNICAL_CASES.md)를 추가로 확인합니다.
-
 ## 프로젝트 지도
 
-| 우선순위 | 프로젝트 | 형태·역할 | 핵심 역량 | 바로 보기 |
+| | 프로젝트 | 형태·역할 | 핵심 역량 | 바로 보기 |
 |---:|---|---|---|---|
 | 1 | VR 재난 시뮬레이션 | 3인 팀 · 네트워크 담당 | Unity 멀티플레이, 소유권·동기화, 비동기 생성 순서, 협업 | [Repository](https://github.com/Mindarinda47/vr-disaster-networking-portfolio) |
 | 2 | Unity 2D RPG Gameplay Systems | 개인 프로젝트 · 게임플레이 구현 | 퀘스트, 대화, 인벤토리, 전투, 저장, 이벤트 기반 UI | [Repository](https://github.com/Mindarinda47/unity-2d-rpg-gameplay-systems) |
