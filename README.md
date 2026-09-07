@@ -1,4 +1,4 @@
-# Game Programming Portfolio
+# Game Programming Portfolio 이종민 Jong Min Lee
 
 Unity 게임플레이와 멀티플레이 네트워크 프로젝트를 중심으로, C 네트워크·운영체제·임베디드 기반 경험을 함께 정리한 포트폴리오 허브입니다. 각 저장소에서 구현 코드, 담당 범위와 문제 해결 과정을 확인할 수 있습니다.
 
