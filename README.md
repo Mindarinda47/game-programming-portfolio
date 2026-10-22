@@ -1,6 +1,6 @@
 # Game Programming Portfolio — 이종민
 
-게임의 규칙과 플레이 흐름을 실제 시스템으로 구현하는 과정에 관심이 있습니다. Unity 게임플레이와 VR 네트워크 프로젝트를 중심으로 직접 만든 게임과 시스템 프로그래밍 작업을 정리했습니다. 최근에는 AI 에이전트를 활용해 1인 개발의 범위를 넓히고 있습니다.
+게임의 규칙과 플레이 흐름을 실제 시스템으로 구현하는 과정에 관심이 있습니다. Unity 게임플레이와 VR 네트워크 프로젝트를 중심으로 직접 만든 게임과 시스템 프로그래밍 작업을 정리했습니다.
 
 ## 주요 게임 프로젝트
 
@@ -16,7 +16,7 @@
 
 **Unity · C# · Netcode for GameObjects · XR · Vivox**
 
-PC 관제자와 VR 참가자를 연결하는 3인 팀 프로젝트입니다. Host/Client 연결, 플레이어 생성과 Ownership 이전, 위치 동기화, 관제 상호작용과 음성 기능 연동을 담당했습니다.
+PC 관제자와 VR 참가자를 연결하는 3인 팀 프로젝트입니다. Host/Client 연결, 플레이어 생성과 소유권 이전, 위치 동기화, 관제 상호작용과 음성 기능 연동을 담당했습니다.
 
 [Repository](https://github.com/Mindarinda47/vr-disaster-networking-portfolio) · [시연 영상](https://www.youtube.com/watch?v=iOX_i1il5Sw) · [담당 범위](https://github.com/Mindarinda47/vr-disaster-networking-portfolio/blob/main/docs/contribution.md) · [대표 코드](https://github.com/Mindarinda47/vr-disaster-networking-portfolio/tree/main/src/networking)
 
@@ -24,15 +24,15 @@ PC 관제자와 VR 참가자를 연결하는 3인 팀 프로젝트입니다. Hos
 
 **React · TypeScript · Canvas · Local Storage**
 
-3일 동안 기획부터 완성한 1인 웹 방탈출 게임입니다. 전체 흐름과 규칙, 기능 우선순위와 최종 확인을 맡고, Codex를 구현과 반복 수정에 활용했습니다.
+3일 동안 기획부터 완성한 1인 웹 방탈출 게임입니다. 전체 흐름과 규칙, 기능 우선순위를 정하고 Codex를 구현과 반복 수정에 활용했습니다.
 
 [Repository](https://github.com/Mindarinda47/website-escape-game-portfolio) · [Play](https://mindarinda47.github.io/website-escape-game/)
 
-## Live Project
+## 진행 중인 프로젝트
 
 ### 2D Auto Battle / Instagram
 
-**Godot · C# · AI-assisted Development · Game Design**
+**Godot · C# · Codex**
 
 여러 작품의 캐릭터 특징을 하나의 2D 탑뷰 자동전투 규칙으로 옮겨, 관전 자체가 재미있는 대결 영상을 만드는 개인 프로젝트입니다. 캐릭터별 스킬, 공격 방식, 이동, 쿨타임과 전투 수치를 직접 정하고, Codex를 활용해 구현한 뒤 반복 플레이로 조정합니다.
 
@@ -48,7 +48,7 @@ PC 관제자와 VR 참가자를 연결하는 3인 팀 프로젝트입니다. Hos
 
 **C · TCP Socket · `select` · Protocol Framing**
 
-TCP stream framing, partial send, 다중 클라이언트와 방 상태 관리를 구현한 네트워크 프로그래밍 프로젝트입니다.
+학부 네트워크 과제 경험을 바탕으로 2026년에 다시 구현한 멀티클라이언트 채팅 서버입니다. TCP stream framing, partial send, 다중 클라이언트와 방 상태 관리를 구현했습니다.
 
 [Repository](https://github.com/Mindarinda47/c-network-room-chat)
 
